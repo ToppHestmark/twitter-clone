@@ -1,6 +1,6 @@
-  
 {
   "projects": {
-    "default": "twitter-clone-e75f4"
+    "default": "twitter-clone-e75f4",
+    "twitter-clone-project": "twitter-clone-fe1fc"
   }
 }
