@@ -2,4 +2,4 @@
 
 # Cloned twitter
 
-Comment section is working but when posting image the image url did not render, so one error there.
+Comment section is working and image post is not rendering for some reason.
